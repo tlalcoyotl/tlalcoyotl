@@ -1,4 +1,4 @@
-I don't know what I'm doing oh god.
+Oh HI!
 
 <!---
 tlalcoyotl/tlalcoyotl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
